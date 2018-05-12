@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '9607'
     url: http://www.gutenberg.org/2009/agents/9607
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20921#Adventures-in-the-ArtsInformal-Chapters-on-Painters-Vaudeville-and-Poets
 gutenberg_issued: '2007-03-28'
 gutenberg_type: Text
 identifiers:
